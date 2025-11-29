@@ -201,11 +201,6 @@ npm run test
 * Voice-based AI financial assistant
 * Advanced financial forecasting models
 
----
-
-## License
-
-This project is released under the MIT License.
 
 ---
 
