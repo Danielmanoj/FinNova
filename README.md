@@ -211,9 +211,9 @@ This project is released under the MIT License.
 
 ## Author
 
-**Danny**
-B.Tech Final Year Project
-QUANTUM AURA
+**G MANOJ**
+B.Tech AIML
+SAVEETHA ENGINEERING COLLEGE
 
 ---
 
